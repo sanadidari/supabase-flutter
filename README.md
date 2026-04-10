@@ -1,3 +1,7 @@
+> **Fork note:** This fork contains branch `fix/gotrue-pkce-null-check` — 
+> see upstream PR [supabase-community/supabase-flutter#1349](https://github.com/supabase-community/supabase-flutter/pull/1349)
+> fixing a release-mode crash in the PKCE OAuth flow.
+
 ![Supabase](https://raw.githubusercontent.com/supabase/supabase-flutter/main/.github/images/supabase-banner.jpg)
 
 # `Supabase Flutter`
